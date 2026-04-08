@@ -3,4 +3,5 @@ public class Student {
     String firstName;
     String surname;
     String masterMigration;
+    String featureMigration;
 }
