@@ -5,4 +5,5 @@ public class Student {
     String masterMigration;
     String masterFirst;
     String featureMigration;
+    String featureFirst;
 }
