@@ -4,4 +4,5 @@ public class Student {
     String surname;
     String email;
     String phoneNumber;
+    String address;
 }
